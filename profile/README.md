@@ -1,6 +1,6 @@
 # Welcome to Gorillaware, LLC
 
-![Gorillaware Image](https://github.com/Gorillaware-LLC/.github/blob/main/GoogleCompanyLogo.jpg)
+![Gorillaware Image](./GoogleCompanyLogo.jpg)
 
 ## Contact Us:
 
