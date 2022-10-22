@@ -1,5 +1,7 @@
 # Welcome to Gorillaware, LLC
 
+![Gorillaware Image](./CompanyLogo.png)
+
 ## Contact Us:
 
 - Email: [admin@gorillaware.io](mailto:admin@gorillaware.io)
