@@ -4,7 +4,7 @@
 
 - Email: [admin@gorillaware.io](mailto:admin@gorillaware.io)
 - Web: [gorillaware.io](https://admin@gorillaware.io)
-- Phone: [803-599-4571](tel:8035884571)
+- Phone: [+1(803)599-4571](tel:+18035884571)
 
 ## Follow us:
 
