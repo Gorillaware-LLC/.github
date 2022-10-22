@@ -1,6 +1,6 @@
 # Welcome to Gorillaware, LLC
 
-![Gorillaware Image](./CompanyLogo.png)
+![Gorillaware Image](./GoogleCompanyLogo.jpg)
 
 ## Contact Us:
 
